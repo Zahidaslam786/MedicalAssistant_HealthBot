@@ -1,5 +1,5 @@
 # MedicalAssistant_HealthBot
-MedicalAssistant_ChatBot using Gemini API
+MedicalAssistant_ChatBot using Python & Gemini API
 
 In .env add the your gemeni_APi key.
 
