@@ -1,0 +1,62 @@
+[
+  {
+    "tag": "Greeting",
+    "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+    "tips": ["Stay positive!", "Smile more!"],
+    "severity": {"Mild": "No action needed.", "Severe": "Seek help if you feel unwell."}
+  },
+  {
+    "tag": "Medication",
+    "patterns": ["What medicine should I take?", "Do I need medication?", "Should I take pills?"],
+    "tips": ["Never self-medicate.", "Follow your doctor's prescription."],
+    "severity": {"Mild": "Monitor your symptoms.", "Severe": "Contact your doctor immediately."}
+  },
+  {
+    "tag": "Symptoms",
+    "patterns": ["I have a headache", "I have a fever", "I am coughing", "I feel tired"],
+    "tips": ["Rest and stay hydrated.", "Monitor your temperature."],
+    "severity": {"Mild": "Rest at home.", "Severe": "Seek medical attention if symptoms worsen."}
+  },
+  {
+    "tag": "Advice",
+    "patterns": ["Give me health advice", "How to stay healthy?", "Tips for good health"],
+    "tips": ["Wash your hands frequently.", "Get regular checkups."],
+    "severity": {"Mild": "Maintain healthy habits.", "Severe": "Consult a healthcare provider for persistent issues."}
+  },
+  {
+    "tag": "Emergency",
+    "patterns": ["I need urgent help", "Emergency", "Severe pain", "Cannot breathe"],
+    "tips": ["Stay calm.", "Call for help immediately."],
+    "severity": {"Mild": "Monitor closely.", "Severe": "Call 1122 or go to the ER."}
+  },
+  {
+    "tag": "Exercise",
+    "patterns": ["How to exercise?", "Fitness tips", "Workout advice"],
+    "tips": ["Stay active daily.", "Incorporate both cardio and strength training."],
+    "severity": {"Mild": "Regular exercise is beneficial.", "Severe": "Consult a trainer for personalized plans."}
+  },
+  {
+    "tag": "MentalHealth",
+    "patterns": ["I feel anxious", "I am depressed", "Mental health help"],
+    "tips": ["Talk to someone you trust.", "Seek professional help if needed."],
+    "severity": {"Mild": "Practice self-care.", "Severe": "Contact a mental health professional immediately."}
+  },
+  {
+    "tag": "Nutrition",
+    "patterns": ["What should I eat?", "Healthy diet tips", "Nutrition advice"],
+    "tips": ["Eat a balanced diet.", "Stay hydrated."],
+    "severity": {"Mild": "Maintain a healthy diet.", "Severe": "Consult a nutritionist for specific needs."}
+  },
+  {
+    "tag": "OtherDisease",
+    "patterns": ["I have diabetes", "I have asthma", "I have hypertension"],
+    "tips": ["Follow your treatment plan.", "Regularly check your condition."],
+    "severity": {"Mild": "Manage your condition with care.", "Severe": "Consult your doctor for any changes."}
+  },
+  {
+    "tag": "Goodbye",
+    "patterns": ["Bye", "Goodbye", "See you", "Thanks"],
+    "tips": ["Come back if you need more advice."],
+    "severity": {"Mild": "No action needed.", "Severe": "N/A"}
+  }
+]

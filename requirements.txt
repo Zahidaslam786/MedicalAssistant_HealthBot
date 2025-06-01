@@ -1,0 +1,8 @@
+tk
+speechrecognition
+PyAudio
+google-generativeai
+pyttsx3
+matplotlib
+requests
+python-dotenv
