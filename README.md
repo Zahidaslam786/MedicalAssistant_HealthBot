@@ -18,3 +18,15 @@ after intallation all pakedges.
 -->After installing this all libraries in vs code terminal, Then run
 
 python health_bot.py
+
+================================================
+
+Tkinter (for GUI development)
+
+Matplotlib (for data visualization)
+
+speech_recognition & PyAudio (for speech-to-text)
+
+pyttsx3 (for text-to-speech)
+
+python-dotenv (for secure API key management)
